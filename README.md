@@ -1,8 +1,8 @@
 # Diabetes Prediction and Risk Segmentation
 
-#This repository contains Python scripts designed to analyze patient data and predict the likelihood of developing diabetes. The scripts also segment patients into risk categories based on various health indicators.
+## This repository contains Python scripts develped on Jupyter Notebooks designed to analyze patient data and predict the likelihood of developing diabetes. The scripts also segment patients into risk categories based on various health indicators.
 
-#Overview
+## Overview
 This project uses logistic regression to predict diabetes risk based on patient data such as age, BMI, family history, social determinants of health (SDoH), gender at birth, HbA1C levels, fasting sugar levels, and more. Patients are categorized into Low, Medium, or High risk based on their predicted probability of developing diabetes.
 
 Features
