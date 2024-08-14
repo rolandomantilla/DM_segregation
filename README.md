@@ -1,4 +1,4 @@
-##Diabetes Prediction and Risk Segmentation
+# Diabetes Prediction and Risk Segmentation
 
 #This repository contains Python scripts designed to analyze patient data and predict the likelihood of developing diabetes. The scripts also segment patients into risk categories based on various health indicators.
 
